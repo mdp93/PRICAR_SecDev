@@ -1,0 +1,152 @@
+"driver_scores_every200_100": {
+    "name": "Every 100, 100",
+    "window": 100
+},
+"driver_scores_every200_150": {
+    "name": "Every 100, 150",
+    "window": 100
+},
+"driver_scores_every200_200": {
+    "name": "Every 100, 200",
+    "window": 100
+},
+"driver_scores_every200_250": {
+    "name": "Every 100, 250",
+    "window": 100
+},
+"driver_scores_every200_300": {
+    "name": "Every 100, 300",
+    "window": 100
+},
+"driver_scores_every200_350": {
+    "name": "Every 100, 350",
+    "window": 100
+},
+"driver_scores_every200_400": {
+    "name": "Every 100, 400",
+    "window": 100
+},
+"driver_scores_every200_450": {
+    "name": "Every 100, 450",
+    "window": 100
+},
+"driver_scores_every200_500": {
+    "name": "Every 100, 500",
+    "window": 100
+},
+"driver_scores_every200_550": {
+    "name": "Every 100, 550",
+    "window": 100
+},
+"driver_scores_every200_600": {
+    "name": "Every 100, 600",
+    "window": 100
+},
+"driver_scores_every200_650": {
+    "name": "Every 100, 650",
+    "window": 100
+},
+"driver_scores_every200_700": {
+    "name": "Every 100, 700",
+    "window": 100
+},
+"driver_scores_every200_750": {
+    "name": "Every 100, 750",
+    "window": 100
+},
+"driver_scores_every200_800": {
+    "name": "Every 100, 800",
+    "window": 100
+},
+"driver_scores_every200_850": {
+    "name": "Every 100, 850",
+    "window": 100
+},
+"driver_scores_every200_900": {
+    "name": "Every 100, 900",
+    "window": 100
+},
+"driver_scores_every200_950": {
+    "name": "Every 100, 950",
+    "window": 100
+},
+"driver_scores_every200_1000": {
+    "name": "Every 100, 1000",
+    "window": 100
+},
+"driver_scores_every200_1050": {
+    "name": "Every 100, 1050",
+    "window": 100
+},
+"driver_scores_every200_1100": {
+    "name": "Every 100, 1100",
+    "window": 100
+},
+"driver_scores_every200_1150": {
+    "name": "Every 100, 1150",
+    "window": 100
+},
+"driver_scores_every200_1200": {
+    "name": "Every 100, 1200",
+    "window": 100
+},
+"driver_scores_every200_1250": {
+    "name": "Every 100, 1250",
+    "window": 100
+},
+"driver_scores_every200_1300": {
+    "name": "Every 100, 1300",
+    "window": 100
+},
+"driver_scores_every200_1350": {
+    "name": "Every 100, 1350",
+    "window": 100
+},
+"driver_scores_every200_1400": {
+    "name": "Every 100, 1400",
+    "window": 100
+},
+"driver_scores_every200_1450": {
+    "name": "Every 100, 1450",
+    "window": 100
+},
+"driver_scores_every200_1500": {
+    "name": "Every 100, 1500",
+    "window": 100
+},
+"driver_scores_every200_1550": {
+    "name": "Every 100, 1550",
+    "window": 100
+},
+"driver_scores_every200_1600": {
+    "name": "Every 100, 1600",
+    "window": 100
+},
+"driver_scores_every200_1650": {
+    "name": "Every 100, 1650",
+    "window": 100
+},
+"driver_scores_every200_1700": {
+    "name": "Every 100, 1700",
+    "window": 100
+},
+"driver_scores_every200_1750": {
+    "name": "Every 100, 1750",
+    "window": 100
+},
+"driver_scores_every200_1800": {
+    "name": "Every 100, 1800",
+    "window": 100
+},
+"driver_scores_every200_1850": {
+    "name": "Every 100, 1850",
+    "window": 100
+},
+"driver_scores_every200_1900": {
+    "name": "Every 100, 1900",
+    "window": 100
+},
+"driver_scores_every200_1950": {
+    "name": "Every 100, 1950",
+    "window": 100
+},

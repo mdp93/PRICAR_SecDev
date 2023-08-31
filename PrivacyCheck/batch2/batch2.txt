@@ -1,0 +1,39 @@
+"driver_scores_random5",
+"driver_scores_random10",
+"driver_scores_random15",
+"driver_scores_random20",
+"driver_scores_random25",
+"driver_scores_random30",
+"driver_scores_random35",
+"driver_scores_random40",
+"driver_scores_random45",
+"driver_scores_random50",
+"driver_scores_random55",
+"driver_scores_random60",
+"driver_scores_random65",
+"driver_scores_random70",
+"driver_scores_random75",
+"driver_scores_random80",
+"driver_scores_random85",
+"driver_scores_random90",
+"driver_scores_random95",
+
+driver_scores_random5 =
+driver_scores_random10 =
+driver_scores_random15 =
+driver_scores_random20 =
+driver_scores_random25 =
+driver_scores_random30 =
+driver_scores_random35 =
+driver_scores_random40 =
+driver_scores_random45 =
+driver_scores_random50 =
+driver_scores_random55 =
+driver_scores_random60 =
+driver_scores_random65 =
+driver_scores_random70 =
+driver_scores_random75 =
+driver_scores_random80 =
+driver_scores_random85 =
+driver_scores_random90 =
+driver_scores_random95 =

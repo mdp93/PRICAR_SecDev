@@ -1,0 +1,4 @@
+[submodule "LibreCAN"]
+	path = LibreCAN
+	url = git@github.com:TroyStacer/LibreCAN.git
+	branch = OpenIVN

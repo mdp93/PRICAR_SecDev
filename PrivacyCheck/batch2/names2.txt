@@ -1,0 +1,76 @@
+"driver_scores_random5": {
+    "name": "5 Random",
+    "window": 333.3333333333333
+},
+"driver_scores_random10": {
+    "name": "10 Random",
+    "window": 181.8181818181818
+},
+"driver_scores_random15": {
+    "name": "15 Random",
+    "window": 125.0
+},
+"driver_scores_random20": {
+    "name": "20 Random",
+    "window": 95.23809523809524
+},
+"driver_scores_random25": {
+    "name": "25 Random",
+    "window": 76.92307692307692
+},
+"driver_scores_random30": {
+    "name": "30 Random",
+    "window": 64.51612903225806
+},
+"driver_scores_random35": {
+    "name": "35 Random",
+    "window": 55.55555555555556
+},
+"driver_scores_random40": {
+    "name": "40 Random",
+    "window": 48.78048780487805
+},
+"driver_scores_random45": {
+    "name": "45 Random",
+    "window": 43.47826086956522
+},
+"driver_scores_random50": {
+    "name": "50 Random",
+    "window": 39.21568627450981
+},
+"driver_scores_random55": {
+    "name": "55 Random",
+    "window": 35.714285714285715
+},
+"driver_scores_random60": {
+    "name": "60 Random",
+    "window": 32.78688524590164
+},
+"driver_scores_random65": {
+    "name": "65 Random",
+    "window": 30.303030303030305
+},
+"driver_scores_random70": {
+    "name": "70 Random",
+    "window": 28.169014084507044
+},
+"driver_scores_random75": {
+    "name": "75 Random",
+    "window": 26.31578947368421
+},
+"driver_scores_random80": {
+    "name": "80 Random",
+    "window": 24.691358024691358
+},
+"driver_scores_random85": {
+    "name": "85 Random",
+    "window": 23.25581395348837
+},
+"driver_scores_random90": {
+    "name": "90 Random",
+    "window": 21.978021978021978
+},
+"driver_scores_random95": {
+    "name": "95 Random",
+    "window": 20.833333333333332
+},

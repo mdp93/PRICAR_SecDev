@@ -1,0 +1,1 @@
+LibreCAN is patented work and we cannot include it in this repository without the consent of the original authors.

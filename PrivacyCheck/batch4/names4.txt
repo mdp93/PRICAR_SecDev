@@ -1,0 +1,8 @@
+"driver_scores_every50_100": {
+    "name": "Every 25, 100",
+    "window": 25
+},
+"driver_scores_every50_200": {
+    "name": "Every 25, 200",
+    "window": 25
+},

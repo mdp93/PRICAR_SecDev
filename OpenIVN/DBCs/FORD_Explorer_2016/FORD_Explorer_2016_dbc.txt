@@ -1,0 +1,17 @@
+{"column" : "GYRO_Y", "ID" : 145, "DBC" : 1, "Start" : 16, "End" : 31, "Coefficient" : 0.0002, "Intercept" : -6.5}
+{"column" : "GYRO_Z", "ID" : 145, "DBC" : 1, "Start" : 0, "End" : 15, "Coefficient" : 0.0002, "Intercept" : -6.5}
+{"column" : "SPEED", "ID" : 1045, "DBC" : 1, "Start" : 0, "End" : 15, "Coefficient" : 0.01, "Intercept" : 0}
+{"column" : "ACCEL_SENSOR_X", "ID" : 146, "DBC" : 1, "Start" : 6, "End" : 15, "Coefficient" : 0.01, "Intercept" : -40}
+{"column" : "ACCEL_SENSOR_Y", "ID" : 146, "DBC" : 1, "Start" : 19, "End" : 31, "Coefficient" : 0.01, "Intercept" : -40}
+{"column" : "ACCEL_SENSOR_Z", "ID" : 119, "DBC" : 1, "Start" : 44, "End" : 53, "Coefficient" : 0.035, "Intercept" : -17.9}
+{"column" : "TURN_LEFT", "ID" : 947, "DBC" : 1, "Start" : 49, "End" : 49, "Coefficient" : 0, "Intercept" : 0}
+{"column" : "TURN_RIGHT", "ID" : 947, "DBC" : 1, "Start" : 36, "End" : 36, "Coefficient" : 0, "Intercept" : 0}
+{"column" : "STEERING_WHEEL_ANGLE", "ID" : 133, "DBC" : 1, "Start" : 0, "End" : 15, "Coefficient" : 0.1, "Intercept" : -3200}
+{"column" : "LAT_DEG", "ID" : 1125, "DBC" : 1, "Start" : 0, "End" : 7, "Coefficient" : 1, "Intercept" : -89}
+{"column" : "LAT_DEC", "ID" : 1125, "DBC" : 1, "Start" : 16, "End" : 29, "Coefficient" : 0.0001, "Intercept" : 0}
+{"column" : "LONG_DEG", "ID" : 1125, "DBC" : 1, "Start" : 32, "End" : 40, "Coefficient" : 1, "Intercept" : -179}
+{"column" : "LONG_DEC", "ID" : 1125, "DBC" : 1, "Start" : 48, "End" : 61, "Coefficient" : 0.0001, "Intercept" : 0}
+{"column" : "BEARING", "ID" : 1, "DBC" : 1, "Start" : 0, "End" : 0, "Coefficient" : 0, "Intercept" : 0}
+{"column" : "ALTITUDE", "ID" : 1, "DBC" : 1, "Start" : 0, "End" : 0, "Coefficient" : 0, "Intercept" : 0}
+{"column" : "AMBIENT_AIR_TEMP", "ID" : 1, "DBC" : 1, "Start" : 0, "End" : 0, "Coefficient" : 0, "Intercept" : 0}
+{"column" : "BAROMETRIC_PRESSURE", "ID" : 1, "DBC" : 1, "Start" : 0, "End" : 0, "Coefficient" : 0, "Intercept" : 0}
